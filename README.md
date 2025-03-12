@@ -16,7 +16,7 @@ Its purpose is to let you construct projects much faster than if you were progra
 
 By reducing the amount of code required for a given operation, CodeIgniter allows you to focus more creatively on your project.
 
-## Project For Clinic Management System In CodeIgniter: Features
+## Project For Clinic Management System in CodeIgniter: Features
 
 * Dashboard Overview
 * Add Doctor
