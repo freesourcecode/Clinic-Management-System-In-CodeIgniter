@@ -74,7 +74,7 @@ Click the created database and click import to the right tab and click choose fi
 
 Lastly, type to the URL localhost/clinic2
 
-## Clinic Management System In CodeIgniter: Output
+## Clinic Management System in CodeIgniter: Output
 
 ![image](https://github.com/user-attachments/assets/56b55c1d-47cc-436c-948c-737cc6c3cec1)
 
